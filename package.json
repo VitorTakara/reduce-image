@@ -1,0 +1,11 @@
+{
+  "name": "CompressImage",
+  "description": "Compressor de imagens",
+  "version": "1.0.0",
+  "author": "Vitor Takara",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^5.0.3"
+  }
+}
