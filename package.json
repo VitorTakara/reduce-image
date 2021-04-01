@@ -4,8 +4,11 @@
   "version": "1.0.0",
   "author": "Vitor Takara",
   "private": true,
+  "scripts": {
+    "start": "gulp"
+  },
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-imagemin": "^5.0.3"
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0"
   }
 }

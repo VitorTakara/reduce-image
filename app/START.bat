@@ -1,2 +1,2 @@
 cd..
-gulp
+npm run start
